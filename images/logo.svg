@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="84px" height="118px" viewBox="0 0 84 118">
+<style type="text/css"><![CDATA[
+.style0 {
+  font-size: 1296px;
+  font-family: "Silent_Lips";
+  fill: rgb(253,0,221);
+}
+]]></style>
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feFlood flood-color="rgb(255,255,255)" result="coFloodOut1"/>
+<feComposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feBlend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<g><g transform="matrix(0.05 0.00 0.00 0.05 28.00 33.00)"><text transform="translate(19.00,1054.00)" class="style0" filter="url(#filter0)"><tspan x="0.00" fill="rgb(253,0,220)">S</tspan></text></g><path fillRule="evenodd" d="M 74 108C 74 108 74 3 74 3 74 3 3 3 3 3 3 3 3 108 3 108 3 108 74 108 74 108M 77 111C 77 111-0 111-0 111-0 111-0-0-0-0-0-0 77-0 77-0 77-0 77 111 77 111 77 111 77 111 77 111Z" fill="rgb(255,255,255)"/><path fillRule="evenodd" d="M 81 115C 81 115 81 10 81 10 81 10 10 10 10 10 10 10 10 115 10 115 10 115 81 115 81 115M 84 118C 84 118 7 118 7 118 7 118 7 7 7 7 7 7 84 7 84 7 84 7 84 118 84 118 84 118 84 118 84 118Z" fill="rgb(255,255,255)"/></g></svg>

@@ -1,0 +1,25 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="67" viewBox="0 0 67 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+    <filter id="filter" x="1477" y="5205" width="40" height="45" filterUnits="userSpaceOnUse">
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="coffee" class="cls-1" d="M1509,5238v12h-32v-35h32v7A8,8,0,0,1,1509,5238Zm-2-21h-28v31h28v-31Zm2,7v12A6,6,0,0,0,1509,5224Zm-9-16h2v4h-2v-4Zm-8-3h2v7h-2v-7Zm-8,3h2v4h-2v-4Z" transform="translate(-1463 -5194)"/>
+  <rect id="Прямоугольник_6_копия_2" data-name="Прямоугольник 6 копия 2" class="cls-2" x="5" y="5" width="61" height="61"/>
+  <rect id="Прямоугольник_6_копия_3" data-name="Прямоугольник 6 копия 3" class="cls-2" x="1" y="1" width="61" height="61"/>
+</svg>
